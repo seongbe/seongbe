@@ -26,7 +26,7 @@
   <!--React-->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
   <!--flutter-->
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white&Color=white"/>
   <br/>
   
   ### ETC
