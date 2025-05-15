@@ -6,6 +6,8 @@
   #### :fire: 사용자 누구나 쉽게 접근할 수 있는 UX/UI 중심의 서비스를 만들기 위해 직접 Figma를 배우고, 여러 해커톤에 참여하며 기획과 디자인 역량을 키워왔습니다. 실제 디자인을 직접 경험해보며 얻은 지식을 바탕으로, 인턴 기간 동안 출시 예정인 앱의 유지보수를 맡아 HCI(인간-컴퓨터 상호작용)를 고려한 개선 작업을 진행했습니다. 그 과정에서 다양한 디자이너와의 협업도 경험하며 소통 능력도 함께 성장시킬 수 있었습니다.<br/>
   #### :mortar_board: “서경대학교 소프트웨어학과”
   <br/>
+  [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)][((https://www.notion.so/1f09ed3722b9807498e8fab7aa3b1068?pvs=4))]
+
   <br/>
   
   ## 🧱 Tech Stack
